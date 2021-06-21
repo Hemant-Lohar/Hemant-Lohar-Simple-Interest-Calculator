@@ -7,7 +7,7 @@ function compute()
 
      if(principal.value < 1){
       alert("Enter a positive number");
-      principal.focus();
+      principal.focus
       return
     }
 
