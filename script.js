@@ -1,8 +1,8 @@
 function compute()
 {
-    const principal = document.getElementById("principal");
-    const rate = document.getElementById("rate");
-    const years = document.getElementById("years");
+    let principal = document.getElementById("principal");
+    let rate = document.getElementById("rate");
+    let years = document.getElementById("years");
 
 
      if(principal.value < 1){
