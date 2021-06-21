@@ -1,4 +1,26 @@
-body {background-color:tan;}
-h1{color:green;}
+body {
+    background-color:black;
+    font-family: arial;
+    color: white;
+}
+h1 {
+    color:gray;
+
+}
+
+.maindiv {
+    background-color:white;
+    color:black;
+    width: 500px;
+    padding: 20px;
+    border-radius: 25px;
+    padding-left: 100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+input, select {
+    margin-bottom: 20px;
+}
 
 
