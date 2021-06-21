@@ -26,3 +26,4 @@ function updateRate(){
     document.getElementById("rate_val").innerText=(rateval +" %");
     
 }
+      
